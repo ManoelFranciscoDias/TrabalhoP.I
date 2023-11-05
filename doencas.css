@@ -12,6 +12,7 @@
     --white: #ffffff;
     --ice-gray: #f1f1f1;
     --content-font: 'Poppins', sans-serif;
+    --hover: #298961;
 
 }
 
@@ -51,7 +52,7 @@ a {
 }
 
 a:hover {
-    background-color: var(--gray);
+    background-color: var(--hover);
 }
 
 
